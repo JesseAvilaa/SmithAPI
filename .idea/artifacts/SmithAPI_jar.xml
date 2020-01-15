@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmithAPI:jar">
+    <output-path>$PROJECT_DIR$/../../../Área de Trabalho/SmithMC/ServerTest/plugins</output-path>
+    <root id="archive" name="SmithAPI.jar">
+      <element id="module-output" name="SmithAPI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencias/Spigot 1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

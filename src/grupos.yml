@@ -1,0 +1,10 @@
+grupos:
+  Diretor:
+    permissoes:
+    - smith.cmd.voar
+    - smith.cmd.gamemode
+    - smith.cmd.limparchat
+    - smith.join.broadcast
+  Membro:
+    permissoes:
+    - ''

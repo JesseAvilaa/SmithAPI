@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SmithAPI:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="644a946c-d1fb-41b0-a1b4-f269293396e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WORYhiKmjpaZ0tPE5WniNqX80k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dependencias/lombok.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\bungee\config" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\bungee\account" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\bungee\commands" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\bungee\events" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\bungee\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.hadden.commons.bungee.commands" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\config" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\score" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\commons\commands" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src" />
+      <recent name="C:\Users\jesse\OneDrive\Documentos\workspace\SmithAPI\src\me\hadden\smithapi\dados" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="644a946c-d1fb-41b0-a1b4-f269293396e1" name="Default Changelist" comment="" />
+      <created>1579018703603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579018703603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2610" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579092712201">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579092712201" />
+    <state x="2638" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579062154625">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2638" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579062154625" />
+    <state x="2586" y="266" key="FileChooserDialogImpl" timestamp="1579096028682">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1579018854451" />
+    <state x="2586" y="266" key="FileChooserDialogImpl/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579096028682" />
+    <state x="2360" y="99" key="SettingsEditor" timestamp="1579096031198">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1579018904966" />
+    <state x="2360" y="99" key="SettingsEditor/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579096031198" />
+    <state x="2575" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579095252142">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.4.1920.1040@0.0.1920.1040" timestamp="1579018727097" />
+    <state x="2575" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579095252142" />
+    <state x="2575" y="122" width="610" height="804" key="find.popup" timestamp="1579021999783">
+      <screen x="1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="2575" y="122" width="610" height="804" key="find.popup/0.0.1920.1040/1920.4.1920.1040@1920.4.1920.1040" timestamp="1579021999783" />
+  </component>
+</project>

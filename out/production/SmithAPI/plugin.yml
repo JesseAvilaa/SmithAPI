@@ -1,0 +1,4 @@
+name: SmithAPI
+version: 3d55058
+
+main: me.hadden.commons.SmithAPI
